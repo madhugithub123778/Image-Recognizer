@@ -1,0 +1,37 @@
+.header{
+width: 100%;font-family: 'Segoe UI';font-size: 30px;box-shadow: 15px 15px 20px black;
+
+}
+
+body{
+background-color:lightcyan;
+
+}
+
+p{
+font-family:  Georgia;
+
+}
+
+#camera, #result{
+width: 350px; height: 300px; border: 4px dotted purple;
+
+
+}
+
+#object_names{
+color: navy; font-size: 20px;
+
+
+}
+
+label{
+font-size: 18px;background-color:violet;padding: 10px;border-radius: 10px;
+
+}
+
+#object_name, #accuracy_percent{
+color: red; font-size: 30px;background-color: yellow;
+
+}
+
